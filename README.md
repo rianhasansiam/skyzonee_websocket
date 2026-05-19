@@ -456,8 +456,7 @@ WebSocket connection failed
 
 **Solution:** 
 - Check if server is running: `curl http://localhost:3001/health`
-- Check firewall settings
-- Verify CORS configuration
+
 
 ## 📝 Logs
 

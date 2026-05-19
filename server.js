@@ -130,7 +130,7 @@ app.get('/', (req, res) => {
   res.json({
     message: 'skyzonee WebSocket Server',
     status: 'running',
-    version: '1.0.0',
+    version: '2.0.0',
     environment: NODE_ENV,
     endpoints: {
       health: '/health',
